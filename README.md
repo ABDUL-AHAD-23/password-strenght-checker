@@ -1,12 +1,12 @@
-** 🔐 Password Strength Checker **
-    This is a simple yet effective Password Strength Checker built using Python. It helps users evaluate how strong their password is based on various criteria such as:
+# 🔐 Password Strength Checker
+  This is a simple yet effective Password Strength Checker built using Python. It helps users evaluate how strong their password is based on various criteria such as:
 
--✅ Password Length
+- ✅ Password Length
 
--🔢 Use of Numbers
+- 🔢 Use of Numbers
 
--🔠 Uppercase & Lowercase Letters
+- 🔠 Uppercase & Lowercase Letters
 
--🔣 Special Characters
+- 🔣 Special Characters
 
--❌ Detection of Common or Weak Passwords
+- ❌ Detection of Common or Weak Passwords
